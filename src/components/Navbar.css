@@ -1,0 +1,19 @@
+.navbar{
+    /* border: 1px solid red; */
+    height: 15vh;
+    width: 70vw;
+    padding: 2vh 2vw;
+    font-size: 1.3rem;
+}
+.navbar nav ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar nav ul li{
+    list-style: none;
+    background-color: rgb(255, 222, 36);
+    width: 7vw;
+    text-align: center;
+    border-radius: 20px;
+}
